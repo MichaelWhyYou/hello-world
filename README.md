@@ -1,11 +1,9 @@
 # hello-world
-VSD (Very Short Description si)
 
-Hello other humans!
+Hi there!
 This is my "write a bit about yourself" part. 
-Pretty interesting, you know why? Because I am an interesting person (no gender)
+Pretty interesting, you know why? Because I'm an interesting person!
 
 That's pretty much it!
-¯\_(ツ)_/¯
 
-Michael#8273
+- Michael
